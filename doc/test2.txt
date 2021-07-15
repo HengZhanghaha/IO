@@ -1,0 +1,3 @@
+java.io.InputStreamReader：
+		Reader的子类，读取字节，
+		使用指定的字符集将其解码为字符。
